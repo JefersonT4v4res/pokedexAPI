@@ -655,6 +655,99 @@
                 "2": "fighting"
             }
         ]
+    },
+    {
+        "id": "064",
+        "name": "abra",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+        "types": [
+            {
+                "1": "psychic"
+            }
+        ]
+    },
+    {
+        "id": "065",
+        "name": "kadabra",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+        "types": [
+            {
+                "1": "psychic"
+            }
+        ]
+    },
+    {
+        "id": "066",
+        "name": "alakazam",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+        "types": [
+            {
+                "1": "psychic"
+            }
+        ]
+    },
+    {
+        "id": "067",
+        "name": "machop",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+        "types": [
+            {
+                "1": "fighting"
+            }
+        ]
+    },
+    {
+        "id": "068",
+        "name": "machoke",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+        "types": [
+            {
+                "1": "fighting"
+            }
+        ]
+    },
+    {
+        "id": "069",
+        "name": "machamp",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+        "types": [
+            {
+                "1": "fighting"
+            }
+        ]
+    },
+    {
+        "id": "070",
+        "name": "bellsprout",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+        "types": [
+            {
+                "1": "grass",
+                "2": "poison"
+            }
+        ]
+    },
+    {
+        "id": "071",
+        "name": "weepinbell",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+        "types": [
+            {
+                "1": "grass",
+                "2": "poison"
+            }
+        ]
+    },
+    {
+        "id": "072",
+        "name": "victreebel",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+        "types": [
+            {
+                "1": "grass",
+                "2": "poison"
+            }
+        ]
     }
-    //https://pokeapi.co/api/v2/pokemon/63/
+    
 ]
