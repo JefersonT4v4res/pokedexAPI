@@ -1,12 +1,12 @@
 const express = require('express');
-const server = express();
-const pokemons = require('./src/data/pokemons.json');
+const morgan = require('morgan');
+const routes = require('./config/routes');
 
-server.get('/pokemons', (req, res) => {
-    return res.json(pokemons)
-});
+const server = express();
+
+server.use(morgan('dev'));
+server.use(routes);
 
 server.listen(3000, () => {
-console.log('Blip blop blin... Servidor está funcionando')
-
+console.log('Server started');
 });
